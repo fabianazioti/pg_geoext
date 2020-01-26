@@ -14,9 +14,11 @@ The pg_geoext has no dependencies other than PostgreSQL.
 ---
 To build it, just do this:
 
-    src/
-    make
-    make install
+```shell
+cd src/geoext/
+make
+make install
+```
 
 ## Usage
 ---
