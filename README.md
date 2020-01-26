@@ -3,15 +3,15 @@
 pg_geoext is a spatial extension prototype for teaching spatial database classes.
 
 ## Status
----
+
 Extension in development
 
 ## Requeriments
----
+
 The pg_geoext has no dependencies other than PostgreSQL.
 
 ## Building & Installation
----
+
 To build it, just do this:
 
 ```shell
@@ -21,7 +21,7 @@ make install
 ```
 
 ## Usage
----
+
 
 ```sql
 CREATE EXTENSION geoext;
